@@ -1,21 +1,5 @@
 <h1 align="center"> Portfolio Website </h1>
 
-- `@click (v-on)`
-- `computed`
-- `data()`
-- `.mount('#app')`
-- `components: {}`
-
-
-`@click (v-on)`
-`computed`
-`data()`
-`.mount('#app')`
-`components: {}`
-
-
-
-
 ## Preview
 
 ### Home
@@ -31,7 +15,14 @@
 
 | Kategori | Class |
 |-------|------|
-| Layout & Grid System | 
+| Layout & Grid System | container, row, col-md-6, col-md-4, order-1, order-2, order-md-1, order-md-2 |
+| Flexbox & Alignment | align-items-center, align-items-start, flex-row, text-center, text-md-start | 
+| Margin & Padding | mb-3, mb-4, mb-5, mt-4, mt-md-0, g-4 | 
+| Navbar | navbar, navbar-nav, nav-item, nav-link | 
+| Button | btn, btn-sm |  
+| Card | card, card-img-top, card-body, card-title, card-text | 
+| Progress Bar | progress, progress-bar | 
+| Image | img-fluid, rounded-circle | 
 
 
 ## Fitur Vue JS
