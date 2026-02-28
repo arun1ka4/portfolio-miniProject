@@ -21,16 +21,18 @@
 
 ## ⚙️Fitur Bootstraps
 
-| Kategori | Class |
-|-------|------|
-| Layout & Grid System | container, row, col-md-6, col-md-4, order-1, order-2, order-md-1, order-md-2 |
-| Flexbox & Alignment | align-items-center, align-items-start, flex-row, text-center, text-md-start | 
-| Margin & Padding | mb-3, mb-4, mb-5, mt-4, mt-md-0, g-4 | 
-| Navbar | navbar, navbar-nav, nav-item, nav-link | 
-| Button | btn, btn-sm |  
-| Card | card, card-img-top, card-body, card-title, card-text | 
-| Progress Bar | progress, progress-bar | 
-| Image | img-fluid, rounded-circle | 
+## Bootstrap Classes Used
+
+| Category | Classes |
+|----------|----------|
+| Layout & Grid System | `container`, `row`, `col-md-6`, `col-md-4`, `order-1`, `order-2`, `order-md-1`, `order-md-2` |
+| Flexbox & Alignment | `align-items-center`, `align-items-start`, `flex-row`, `text-center`, `text-md-start` |
+| Spacing (Margin & Padding) | `mb-3`, `mb-4`, `mb-5`, `mt-4`, `mt-md-0`, `g-4` |
+| Navbar | `navbar`, `navbar-nav`, `nav-item`, `nav-link` |
+| Button | `btn`, `btn-sm` |
+| Card | `card`, `card-img-top`, `card-body`, `card-title`, `card-text` |
+| Progress Bar | `progress`, `progress-bar` |
+| Image | `img-fluid`, `rounded-circle` |
 
 
 ## ⚙️Fitur Vue JS
