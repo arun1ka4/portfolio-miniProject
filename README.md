@@ -1,5 +1,14 @@
 <h1 align="center"> Portfolio Website </h1>
-![Coverage](https://github.com/arun1ka4/portfolio-miniProject/blob/main/README.md)
+
+`@click (v-on)`
+`computed`
+`data()`
+`.mount('#app')`
+`components: {}`
+
+
+
+
 ## Preview
 
 ### Home
