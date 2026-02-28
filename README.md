@@ -5,11 +5,17 @@
 ### Home
 <img width="1200" height="auto" alt="127 0 0 1_5500_index html (3)" src="https://github.com/user-attachments/assets/3dfebde7-03b4-40a3-a6ea-a05166c0fe29" />
 
+<img width="750" height="1334" alt="127 0 0 1_5500_index html(iPhone SE)" src="https://github.com/user-attachments/assets/47325e68-eb33-4760-a79a-aa8bda5e0efa" />
+
 ### About Me
 <img width="1200" height="auto" alt="127 0 0 1_5500_index html (4)" src="https://github.com/user-attachments/assets/bdf0eec2-c987-49d5-8404-7314bf9f7745" />
 
+<img width="750" height="1334" alt="127 0 0 1_5500_index html(iPhone SE) (2)" src="https://github.com/user-attachments/assets/1f2c33dc-0c5a-468b-a747-25b144b5af30" />
+
 ### Certificates
 <img width="1200" height="auto" alt="127 0 0 1_5500_index html (5)" src="https://github.com/user-attachments/assets/1388ffc3-bebb-4b61-9b30-4562400a28d4" />
+
+<img width="750" height="1334" alt="127 0 0 1_5500_index html(iPhone SE) (3)" src="https://github.com/user-attachments/assets/ddffc734-fad0-4b27-b5b4-aee8ac20a1c7" />
 
 ## ⚙️Fitur Bootstraps
 
