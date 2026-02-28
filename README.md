@@ -53,7 +53,7 @@
 | `:src` | Source image dari data `cert.image` |
 | `:href` | Link diambil dari data `cert.link` |
 
-## 🎨tyling CSS
+## 🎨Styling CSS
 | Category | Selector (Class & ID) |
 |----------|------------------------|
 | Global Styling | `html`, `body`, `section`, `::-webkit-scrollbar` |
