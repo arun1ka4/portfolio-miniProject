@@ -1,5 +1,5 @@
 <h1 align="center"> Portfolio Website </h1>
-![Coverage](https://img.shields.io/codecov/c/github/username/repo-name)
+![Coverage](https://github.com/arun1ka4/portfolio-miniProject/blob/main/README.md)
 ## Preview
 
 ### Home
