@@ -10,7 +10,7 @@
 ### About Me
 <img width="1200" height="auto" alt="127 0 0 1_5500_index html (4)" src="https://github.com/user-attachments/assets/bdf0eec2-c987-49d5-8404-7314bf9f7745" />
 
-<img width="750" height="1334" alt="127 0 0 1_5500_index html(iPhone SE) (1)" src="https://github.com/user-attachments/assets/014ab076-4535-4cd2-b361-2239a7b483bd" />
+<img width="400" height="auto" alt="127 0 0 1_5500_index html(iPhone SE) (1)" src="https://github.com/user-attachments/assets/014ab076-4535-4cd2-b361-2239a7b483bd" />
 
 <img width="400" height="auto" alt="127 0 0 1_5500_index html(iPhone SE) (2)" src="https://github.com/user-attachments/assets/1f2c33dc-0c5a-468b-a747-25b144b5af30" />
 
