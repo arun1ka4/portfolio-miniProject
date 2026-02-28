@@ -27,7 +27,8 @@
 
 ## Fitur Vue JS
 
-| Kategori | Penerapan |
+| Fitur | Penerapan |
+|-------|------|
 | Interpolation ({{ }}) | {{ name }}, {{ tagline }} |
 | v-for | Mengulang elemen pada skills, experiences, certificates |
 | :style | Width progrees bar dinamis dengan value level |
