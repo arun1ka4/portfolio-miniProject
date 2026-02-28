@@ -52,3 +52,15 @@
 | `:style` | Width progrees bar dinamis dengan value level |
 | `:src` | Source image dari data `cert.image` |
 | `:href` | Link diambil dari data `cert.link` |
+
+## Styling CSS
+| Category | Classes/id |
+|----------|----------|
+| Layout & Struktur | `.section`, `.container`, `.hero` |
+| Navbar | `.navbar-custom`, `.navbar-custom .nav-link`, `.navbar-custom .nav-link:hover` |
+| Typography | `.hero h1`, `.section-title`, `.card-title` |
+| Image Styling | `.profile-img`, `.card-img-top` |
+| Card Styling | `.card`, `.card:hover`, `.card-body` |
+| Progress Bar | `.progress`, `.progress-bar` |
+| Spacing & Utility | `.mb-3`, `.mb-4`, `.mb-5`, `.mt-4` |
+| Responsive Design | `@media (max-width: 768px)` |
