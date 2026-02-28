@@ -53,14 +53,14 @@
 | `:src` | Source image dari data `cert.image` |
 | `:href` | Link diambil dari data `cert.link` |
 
-## Styling CSS
-| Category | Classes/id |
-|----------|----------|
-| Layout & Struktur | `.section`, `.container`, `.hero` |
-| Navbar | `.navbar-custom`, `.navbar-custom .nav-link`, `.navbar-custom .nav-link:hover` |
-| Typography | `.hero h1`, `.section-title`, `.card-title` |
-| Image Styling | `.profile-img`, `.card-img-top` |
-| Card Styling | `.card`, `.card:hover`, `.card-body` |
-| Progress Bar | `.progress`, `.progress-bar` |
-| Spacing & Utility | `.mb-3`, `.mb-4`, `.mb-5`, `.mt-4` |
+## 🎨tyling CSS
+| Category | Selector (Class & ID) |
+|----------|------------------------|
+| Global Styling | `html`, `body`, `section`, `::-webkit-scrollbar` |
+| Navbar | `.custom-navbar`, `.navbar-nav`, `.navbar a`, `.navbar a:hover` |
+| Home Section | `#home-section`, `#home-section h1`, `#home-section h2`, `.btn-pink`, `.btn-pink:hover`, `.home-img` |
+| About Section | `#about-section`, `.text-pink`, `.experience-box`, `.experience-box:hover`, `.experience-box h5` |
+| Skills Section | `.custom-progress`, `.custom-progress-bar` |
+| Certificates Section | `.card`, `.card:hover`, `.card-title`, `.card-text` |
+| Utility | `.spacer` |
 | Responsive Design | `@media (max-width: 768px)` |
