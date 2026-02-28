@@ -39,8 +39,8 @@
 
 | Fitur | Penerapan |
 |-------|------|
-| Interpolation ({{ }}) | {{ name }}, {{ tagline }} |
-| v-for | Mengulang elemen pada skills, experiences, certificates |
-| :style | Width progrees bar dinamis dengan value level |
-| :src | Source image dari data cert.image |
-| :href | Link diambil dari data cert.link |
+| `Interpolation ({{ }})` | `{{ name }}`, `{{ tagline }}` |
+| `v-for` | Mengulang elemen pada skills, experiences, certificates |
+| `:style` | Width progrees bar dinamis dengan value level |
+| `:src` | Source image dari data `cert.image` |
+| `:href` | Link diambil dari data `cert.link` |
