@@ -1,5 +1,5 @@
 <h1 align="center"> Portfolio Website </h1>
-
+![Coverage](https://img.shields.io/codecov/c/github/username/repo-name)
 ## Preview
 
 ### Home
@@ -15,6 +15,7 @@
 
 | Kategori | Class |
 |-------|------|
+| Layout & Grid System | 
 
 
 ## Fitur Vue JS
