@@ -19,6 +19,14 @@
 
 <img width="400" height="auto" alt="127 0 0 1_5500_index html(iPhone SE) (3)" src="https://github.com/user-attachments/assets/ddffc734-fad0-4b27-b5b4-aee8ac20a1c7" />
 
+## Teknologi
+| Teknologi | Tujuan |
+|----------|----------|
+| HTML | Struktur dasar website |
+| CSS | Styling tampilan website |
+| CSS | Mempermudah layout dan membuat website otomatis responsive |
+| Vue JS | Website statis menjadi lebih dinamis |
+
 ## ⚙️Fitur Bootstraps
 
 ## Bootstrap Classes Used
