@@ -1,5 +1,12 @@
 <h1 align="center"> Portfolio Website </h1>
 
+- `@click (v-on)`
+- `computed`
+- `data()`
+- `.mount('#app')`
+- `components: {}`
+
+
 `@click (v-on)`
 `computed`
 `data()`
